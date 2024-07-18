@@ -1,0 +1,181 @@
+04/06
+
+What is software:
+Different typea of softwares:
+1.System Software:Device drivers, OS, Servers, utilities etc.,
+2.Progamming software:debuggers, compilers,interpreters etc.,
+3.Application software:Web Applications, Mobile applications, Desktop applications.
+-----------------------------------------------------------------------
+
+What is Testing?
+
+
+An activity of comparing expected value with Actual value.
+Expected value: Client requirement
+Actual value: After Development, Application developed by a programmar or developer.
+
+---------------------------------------------------------------------------
+What is Software testing
+It is a process of executing an application to find out defects in the software.
+MAin Objective: Quality to the clients
+
+Quality Product: Based on paramaters
+1.Bugs free
+2.with in the time framework
+3.less cost or with in budget
+4.maintainability
+5.client requirement
+
+-----------------------------------------------------------------------------
+Defect can be used in 3 terminologies:
+
+Error: Before development, if the developer finds any mistakes.Human Mistakes
+
+Bug/Defect: After development , Tester will find the mistakes.(Expected != actual VAlue
+
+Failure: If the Customer faces any problems while using the application under end user environment.
+
+
+---------------------------------------------------
+Project Vs Product
+
+Project: If an application developed for specific customer , it is calls Project ased application.
+(service based companies like Infosys, Tcs etc.,)
+
+
+Product:If an application developed for entire market based on market requirements, it is called product based application.
+(Product bases companies like Google, Microsoft etc.,)
+
+------------------------------------------------------------
+
+
+05/06
+
+MAnual Testing Vs Automation Testing
+
+MAnual Testing usually done by man power
+
+MAnual testing involves human testing and intercating with the software application and identify the bugs/ defects.
+
+Automation testing: It uses computer programs, applications or scripts to write pre-defined testa and run programatically.
+
+Advantages of MAnual testing:
+-------------------------------
+
+Cost Effective:
+Adaptable
+Technology-independent
+intuitive
+
+advantages of Automatic testing:
+
+-------------------------------
+More Test coverage
+Quick and Efficient
+Reusable (we use scripts everytime required)
+Reliable
+
+DisadvantageS
+====================
+Manual testing:
+-------------
+slow & tedious
+Human errors
+Resource-heavy
+Inconsistent
+Low test coverage
+
+
+Automation testing:
+----------------
+More expensive
+Less flexible
+add unnecessary complexity
+Less intuitive
+
+Differences between Manual testing and Automation testing with-respect-to Testing Aspects:
+--------------------------------------------------------------------------------------
+
+1. Accuracy
+
+2.Cost efficiency  ( less --- M) , (more--A)
+
+3.Reliability      (High --M), ( less_A)
+
+4.Test coverages    (Less--M), (more -A)
+
+5.Scalability         (Less -M), (more -A)
+
+6.User experience    ( Effective --M), ( ineffective -A)
+
+7.Test cycle Time   (shorter - M)  ( Effective -- A)
+
+8 Human Resources ( more -M )  ( Less --A)
+------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------
+SDLC:It is the structured process used by software industry to design, develop, test and deploy the quality product /software to the customer.
+
+Main goal of the SDLC is to minimize risk before deciding to deploy the product to the end-users 
+and ensures thst the software meets the customers expectations both during and after production.
+
+
+
+Benefits:
+
+1. Increased visibilty of the development process for all stakeholders (Project managers, Developers, testers, clients...)involved.
+2.More efficinet estimation, planning and scheduling
+3.Improved Risk Management and cost estimation
+4.A systematic approach to delivering software that meets the customers expectations and improvs satisfaction.
+
+
+  Phases:
+---------------
+1.Planning:Where you were gathering dusiness requirements fromthe client or Stakeholders.
+
+2.Requirement analysis : 1st analyze the requiremets  and inform he requirements to the deveopers. Here Business analyst will prepare Brs 
+( Business requirement specification documents), SRs ( Software requirement Specifications) , Use case documents, RTM ( Requirement tracebility matrix) documents 
+
+3.Designing :  Here original plan and vision are elaborated into the software design Document(SDD), which includes system design, programming language,
+ templates , platform to use and the application security measures.
+
+4.Coding and  Development : Where here development team members divide the software into small modules and
+ turn the software requiremnt into code that the makes the prodect.
+
+5.Testing: before getting the software product out the door of the Production envirnmnet, its important to have your quality assurance team 
+perform validation testing to make sure it is functioning properly and does what it meants to do.
+Types of testings we will perform in this phase:
+1.Performnce testing
+2.Functional testing
+3.Security testing
+4.Unit testing
+5.Usability testing
+6.Acceptance testing
+
+
+6.Deploying : Here in this phase,the product or software is delivered to the Client.
+
+                                                                                                                                                                
+7.Maintainability :It is final stage of the SDLC.
+
+----------------------------------------
+SDLC models
+
+1.Waterfall model
+2.Prototype model
+3.VModel
+4.Agile model
+5.Hybrid model
+6.Big-bang model
+
+
+
+
+
+
+
+
+
+
+
